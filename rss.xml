@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rasha]]></title>
+        <description><![CDATA[Rasha]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 31 Jan 2016 08:27:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rachel Hentsch, Campionessa Enduro Lady Lazio 2015, parte la sfida con la start up #useit - She Motori]]></title>
+            <description><![CDATA[<article><h1>Rachel Hentsch, Campionessa Enduro Lady Lazio 2015, parte la sfida con la start up #useit - She Motori</h1><p>Carissime Amiche e Amici, di SheMotori e tutti i fan(lo so siete in moltissimi) di Rachel "la guerriera" è arrivato il momento delle premiazioni, tutte le fatiche per la campionessa di questa stagione Enduro 2015 sembrano aver dato ottimi risultati...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1b4efb855ce1cc01be925188b827054a1a25e7c.jpg"></article>]]></description>
+            <link>http://www.shemotori.it/2016/01/19/rachel/</link>
+            <guid isPermaLink="false">3d50ea74-d8b4-499d-affb-5a66c1754139</guid>
+            <pubDate>Sun, 31 Jan 2016 08:26:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
