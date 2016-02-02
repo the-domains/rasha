@@ -1,20 +1,8 @@
-title: Gatta - all crazy about bikes
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.1644182
+name: Gatta
 favicon: null
-name: Rasha
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.1644182
+typography_spectrum: 0.6096122
+title: Gatta - all crazy about bikes
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0
-  lightness: 0.5556492
-  saturation: 0.5
-  rhythmicContrast: 0.25
   brandColors:
     - '#f6fff8'
     - '#0f0e13'
     - '#694644'
     - '#aa664f'
     - '#eaa180'
-typography_spectrum: 0.6096122
+  brandStrength: 0
+  lightness: 0.5556492
+  saturation: 0.5
+  rhythmicContrast: 0.25
+purpose: []
