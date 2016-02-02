@@ -6,7 +6,7 @@ inLanguage: it
 starred: true
 keywords: []
 description: 'Carissime Amiche e Amici, di SheMotori e tutti i fan(lo so siete in moltissimi) di Rachel "la guerriera" è arrivato il momento delle premiazioni, tutte le fatiche per la campionessa di questa stagione Enduro 2015 sembrano aver dato ottimi risultati...'
-datePublished: '2016-02-02T16:48:28.900Z'
+datePublished: '2016-02-02T16:48:28.924Z'
 dateModified: '2016-02-02T16:48:24.883Z'
 author:
   - name: Silvia Terraneo
