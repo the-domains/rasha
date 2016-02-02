@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - hentsch
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=rAJB6rIDjcA&list=PL3UPWW0iJquaWcXyEF3P8kmld1gNNJKxx&index=8'
 title: Wild Girls
-datePublished: '2016-01-31T10:59:28.845Z'
-dateModified: '2016-01-31T10:48:28.268Z'
+datePublished: '2016-02-02T16:43:15.138Z'
+dateModified: '2016-02-02T16:43:05.770Z'
 sourcePath: _posts/2016-01-31-wild-girls.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
