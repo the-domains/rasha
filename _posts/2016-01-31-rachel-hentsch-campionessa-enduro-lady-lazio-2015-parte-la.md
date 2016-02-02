@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: it
+starred: false
+keywords: []
+description: 'Carissime Amiche e Amici, di SheMotori e tutti i fan(lo so siete in moltissimi) di Rachel "la guerriera" è arrivato il momento delle premiazioni, tutte le fatiche per la campionessa di questa stagione Enduro 2015 sembrano aver dato ottimi risultati...'
+datePublished: '2016-02-02T16:42:32.934Z'
+dateModified: '2016-02-02T16:42:29.837Z'
 author:
   - name: Silvia Terraneo
     url: 'http://www.shemotori.it/author/silvia-terraneo/'
     avatar: {}
 related: []
-publisher:
-  url: 'http://www.shemotori.it'
-  name: She Motori
-  favicon: 'http://www.shemotori.it/favicon.ico'
-  domain: www.shemotori.it
-keywords: []
-description: 'Carissime Amiche e Amici, di SheMotori e tutti i fan(lo so siete in moltissimi) di Rachel "la guerriera" è arrivato il momento delle premiazioni, tutte le fatiche per la campionessa di questa stagione Enduro 2015 sembrano aver dato ottimi risultati...'
-inLanguage: it
 app_links: []
-isBasedOnUrl: 'http://www.shemotori.it/2016/01/19/rachel/'
 title: 'Rachel Hentsch, Campionessa Enduro Lady Lazio 2015, parte la sfida con la start up #useit - She Motori'
-datePublished: '2016-01-31T08:26:43.877Z'
-dateModified: '2016-01-31T08:22:51.234Z'
 sourcePath: _posts/2016-01-31-rachel-hentsch-campionessa-enduro-lady-lazio-2015-parte-la.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: She Motori
+  domain: www.shemotori.it
+  url: 'http://www.shemotori.it'
+  favicon: 'http://www.shemotori.it/favicon.ico'
+url: rachel-hentsch-campionessa-enduro-lady-lazio-2015-parte-la/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
